@@ -1,7 +1,7 @@
-FROM ubuntu
+# FROM ubuntu
 
-LABEL maintainer="dianabeatriztinoco@gmail.com"
+# LABEL maintainer="dianabeatriztinoco@gmail.com"
 
-RUN apt-get update 
+# RUN apt-get update 
 
-CMD ["echo", "Hello Wold"]
+# CMD ["echo", "Hello Wold"]
